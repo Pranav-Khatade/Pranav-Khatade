@@ -5,7 +5,7 @@
   
   Here one quick fact about me I am hardworking and passonate computer engineering student and I am confident in my Software skill-set which includes python,C++,HTML,CSS,javascript,GDScript.
   
-  let me show case my skill in my codes.
+  let me showcase my skill in my codes.
 
   Thankyou
 <!---
