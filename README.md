@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pranav-Khatade
-  I am just a college student, but hey don't ignore me
+  I am a college student, but hey don't ignore me
   
   i am intrested in learning blender , Lmms studio and unity software althought i know some basic operations but i will try to reach intermediate level.
   
