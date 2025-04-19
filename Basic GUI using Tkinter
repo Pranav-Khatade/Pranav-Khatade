@@ -1,0 +1,20 @@
+from tkinter import *
+
+root = Tk()
+
+e= Entry(root, width="30")
+e.pack()
+e.insert(0, "Enter Your name")
+
+def click():
+	hello=e.get() + " Hello you have a wonderful day ahead!"
+	mylabel=Label(text=hello)
+	mylabel.pack()
+
+
+
+
+button=Button(root, text="interact", command=click)
+button.pack()
+
+root.mainloop()
