@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pranav-Khatade
   I am a college student, but hey don't ignore me
   
-  i am intrested in learning blender , Lmms studio and unity software althought i know some basic operations but i will try to reach intermediate level.
+  i am intrested in learning LLM Models and AI tools.
   
   Here one quick fact about me I am hardworking and passonate computer engineering student and I am confident in my Software skill-set which includes python,C++,HTML,CSS,javascript,GDScript.
   
